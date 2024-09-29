@@ -1,0 +1,118 @@
+.loginPage {
+    background: url('Images/login-bg-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 70%;
+    background-position: top;
+    
+}
+
+
+.sidebar{
+    background-color: rgba(0, 149, 255, 0.918);
+}
+
+.header{
+    background: url('Images/Header-bg.jpg');
+    background-size: 180% 100%;
+    background-repeat: no-repeat;
+    height: 120px;
+}
+
+
+.icon{
+    height: 20px;
+    width: 20px;
+    justify-content: center;
+    flex: auto;
+}
+
+.projectname{
+    margin-top: 20px;
+    color: #fff;
+}
+
+.saveproject{
+    padding-top: -10px;
+    margin-left: 80%;
+}
+
+.status {
+    padding-top: -10px;
+     margin-left: 80%;
+}
+
+.loginForm {
+    margin-top: 100px;
+    height: 50%;
+        width: 30%;
+    background-color: #fff;
+
+}
+
+.logo {
+    background: url('Images/Logo.jpg');
+    background-size: 15% 100%;
+    background-repeat: no-repeat;
+}
+
+.graph{
+    background: url('Images/bargraph.jpg');
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 800px;
+}
+
+
+.headerlogo{
+    background: url('Images/Logo.png');
+        background-size: 10% 100%;
+        background-repeat: no-repeat;
+    margin-top: -60px;
+    margin-left: 700px;
+ 
+}
+
+
+.main{
+    text-align: center;
+    margin-left: 30px;
+}
+
+.dashboard-icons{
+    margin-top: 140px;
+}
+
+.i{
+    color: rgba(0, 149, 255, 0.918);
+}
+
+.logout{
+    margin-top: 240px;
+}
+
+.login{
+color: rgba(0, 149, 255, 0.918);
+    margin-left: 30%;
+}
+
+.forgotpassword{
+    margin-left: 280px;
+    color: rgba(0, 149, 255, 0.918);
+}
+
+
+/* h6{
+    margin-left: 60%;
+    color: rgba(0, 149, 255, 0.918);
+} */
+
+.loginbtn{
+    width: 160px;
+    margin-left: 30%;
+   background-color: rgba(0, 149, 255, 0.918);
+}
+
+.btn-success{
+    background-color: rgba(0, 149, 255, 0.918);
+}
